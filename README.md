@@ -127,46 +127,19 @@ $ cat /etc/b1narydump/profile.txt
 
 ## `> cat /proc/interests`
 
-```python
-class b1narydump:
-    interests = [
-        "Unpacking packed malware samples",
-        "Analyzing APT TTPs",
-        "Writing custom YARA rules",
-        "CTF — pwn & reversing",
-        "Dissecting shellcode & loaders",
-        "Kernel-level rootkit analysis",
-        "Threat modeling & red teaming",
-    ]
-
-    motto = "0xDEADC0DE is just the beginning."
+```diff
++ Red Teaming
++ Advance Network and Cloud Pentesting
++ Web App and Web3 Pentesting
++ Blockchain Security
++ AI Security and Pentesting
++ API Pentestnig
++ Malware and Threat Intelligence
++ SOC Operations
++ Monitoring and Analysis
++ Linux Administration
++ Music and more!
 ```
-
----
-
-## `> git log --oneline --graph`
-
-```
-* [ACTIVE]   Hunting malware in the wild
-* [ACTIVE]   Reversing obfuscated binaries
-* [ONGOING]  Pwning CTF challenges
-* [ONGOING]  Building offensive tooling
-* [RESEARCH] APT campaign tracking
-```
-
----
-
-## `> cat /sys/stats`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=b1narydump&show_icons=true&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b1narydump&layout=compact&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=b1narydump&theme=matrix&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41)
-
-</div>
 
 ---
 
@@ -174,46 +147,30 @@ class b1narydump:
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/b1narydump)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/b1narydump)
-[![Hack The Box](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/b1narydump)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/#)
+[![Hack The Box](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/#)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/#)
 [![Blog](https://img.shields.io/badge/Blog-FF6B35?style=for-the-badge&logo=ghost&logoColor=white)](#)
 
 </div>
 
----
-
-## `> tail -f /var/log/activity.log`
-
-```
-[INFO]  Reversing a fresh malware sample...
-[INFO]  Writing a new blog post on evasion techniques...
-[INFO]  Participating in CTF this weekend...
-[WARN]  Sleep deprived. Coffee levels: critical.
-[INFO]  Still debugging at 3 AM...
-[INFO]  One more disassembly pass, then sleep.
-```
 
 ---
+
+## `> cat /sys/stats`
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════╗
-║                                                   ║
-║    "The quieter you become,                       ║
-║     the more you are able to hear."               ║
-║                               — Kali Linux        ║
-║                                                   ║
-╚═══════════════════════════════════════════════════╝
-```
+![GitHub Streak](https://streak-stats.demolab.com?user=b1narydump&theme=matrix&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41)
+
+</div>
+
+<div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=b1narydump&style=for-the-badge&color=00FF41&label=VISITORS)
 
 </div>
-
----
 
 <div align="center">
 <sub>
